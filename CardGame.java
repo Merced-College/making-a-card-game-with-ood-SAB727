@@ -1,4 +1,10 @@
-package cardGame;
+//Shane
+//Tristen
+//Dylan
+//9/23/25
+//Arraylist card game with OOP
+
+//package cardGame;
 
 import java.io.File;
 import java.io.FileNotFoundException;
