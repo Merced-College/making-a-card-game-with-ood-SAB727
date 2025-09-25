@@ -64,6 +64,6 @@ public class Card {
     //Shane: toString method
     @Override
     public String toString() {
-        return "Card{" + "cardSuit='" + cardSuit + '\'' + ", cardName='" + cardName + '\'' + ", cardValue=" + cardValue + ", cardPicture='" + cardPicture + '\'' +'}';
+        return "Card: Suit = " + cardSuit + ", Name = " + cardName + ", Value = " + cardValue + ", Picture = " + cardPicture;
     }
 }
